@@ -26,7 +26,7 @@
   <a href=https://www.instagram.com/abraham.martin.524/?igsh=MXN0eGJoNHB6MmRsOA%3D%3D>
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF00FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="URL_DEL_CANAL_DE_TWITCH">
+  <a href="https://www.twitch.tv/orangemecanic">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="URL_DEL_SERVIDOR_DE_DISCORD">
