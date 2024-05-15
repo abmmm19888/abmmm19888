@@ -29,7 +29,7 @@
   <a href="https://www.twitch.tv/orangemecanic">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="URL_DEL_SERVIDOR_DE_DISCORD">
+  <a href="https://discord.gg/EJ6XCVw8Xv">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href=orangemecanicclub@gmail.com>
