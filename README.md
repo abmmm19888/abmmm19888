@@ -23,7 +23,7 @@
   <a href="URL_DEL_CANAL_DE_YOUTUBE">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="URL_DEL_PERFIL_DE_INSTAGRAM">
+  <a href=https://www.instagram.com/abraham.martin.524/?igsh=MXN0eGJoNHB6MmRsOA%3D%3D>
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF00FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="URL_DEL_CANAL_DE_TWITCH">
@@ -38,7 +38,7 @@
   <a href="URL_DEL_PERFIL_DE_LINKEDIN">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="URL_DEL_PERFIL_DE_TWITTER">
+  <a href=[(https://twitter.com/abmmm1988?t=8gk8eYCbC7UGViwXNcYovQ&s=09)](https://twitter.com/abmmm1988?t=8gk8eYCbC7UGViwXNcYovQ&s=09)>
     <img src="https://img.shields.io/static/v1?message=twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
   </a>
 </div>
