@@ -1,6 +1,11 @@
 
 <h2 align="left">¡Hola! Soy Abraham, un apasionado de la informatica, Actualmente estoy aprendiendo.</h2>
 
+- 🔭 Actualmente trabajando en proyectos personales.
+- 🌱 Aprendiendo desarrollo web y programación en general.
+- 👯 Buscando colaborar en proyectos interesantes.
+- 💬 Pregúntame sobre tecnología, desarrollo y más.
+- 📫 Cómo contactarme: [abraham_moyo@hotmail.com)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
