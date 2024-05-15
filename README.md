@@ -1,5 +1,5 @@
-<
-<h2 align="left" style="style="text-decoration: none;">¡Hola! Soy Abraham, un apasionado de la informática. Actualmente estoy aprendiendo.</h2>
+<h2 align="left" style="style="text-decoration: none;" ¡Hola! Soy Abraham, un apasionado de la informática. Actualmente estoy aprendiendo.</h2>
+
 - 🔭 Actualmente trabajando en proyectos personales.
 - 🌱 Aprendiendo desarrollo web y programación en general.
 - 👯 Buscando colaborar en proyectos interesantes.
