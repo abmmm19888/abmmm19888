@@ -35,13 +35,13 @@
   <a href="https://discord.gg/EJ6XCVw8Xv">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  
-  <a href="URL_DEL_PERFIL_DE_LINKEDIN">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
   <a href="https://twitter.com/abmmm1988?t=8gk8eYCbC7UGViwXNcYovQ&s=09">
     <img src="https://img.shields.io/static/v1?message=twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
   </a>
+  <a href="URL_DEL_PERFIL_DE_LINKEDIN">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  
 </div>
 
 
